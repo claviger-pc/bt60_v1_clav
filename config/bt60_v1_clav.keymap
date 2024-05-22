@@ -177,7 +177,7 @@
 &trans    &trans  &trans  &trans  &trans  &trans  &trans        &trans  &trans  &trans  &trans  &trans  &trans    &trans
 &kp LGUI  &trans  &trans  &trans  &trans  &trans  &trans        &trans  &trans  &trans  &trans  &trans            &trans
 &trans            &trans  &trans  &trans  &trans  &trans        &trans  &trans  &trans  &trans  &trans            &trans  &trans
-&trans    &trans          &trans                  &gqt 4 SPACE                          &trans  &trans  &trans    &trans  &trans
+&trans    &LGUI          &LALT                  &gqt 4 SPACE                          &trans  &trans  &trans    &trans  &trans
             >;
         };
     };
